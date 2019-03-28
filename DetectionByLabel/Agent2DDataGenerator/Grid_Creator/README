@@ -1,0 +1,1 @@
+This code converts the extracted x,y data into a 24-dimensional vector that shows value of each cell in the field(for more information read akiyama's online formation identification), plus the position of the ball.
